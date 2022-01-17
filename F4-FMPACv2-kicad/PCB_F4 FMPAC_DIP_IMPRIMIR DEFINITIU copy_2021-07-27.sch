@@ -1,0 +1,2286 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 14325 12486
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	4750 8350 5150 8350
+Wire Wire Line
+	5150 8350 5150 10650
+Wire Wire Line
+	5150 10650 4950 10650
+Wire Wire Line
+	7850 7450 7250 7450
+Wire Wire Line
+	7250 7450 6550 7450
+Wire Wire Line
+	6550 7450 5850 7450
+Wire Wire Line
+	5850 7450 4050 7450
+Wire Wire Line
+	4050 7450 4050 7750
+Wire Wire Line
+	4050 7750 4150 7750
+Wire Wire Line
+	7250 7050 7250 7450
+Wire Wire Line
+	7250 7650 7250 7450
+Wire Wire Line
+	5850 7450 5850 7550
+Wire Wire Line
+	6550 7650 6550 7450
+Wire Wire Line
+	6550 6650 6550 7450
+Wire Wire Line
+	5850 7050 5850 7450
+Connection ~ 7250 7450
+Connection ~ 5850 7450
+Connection ~ 6550 7450
+Text Label 7850 7450 0    10   ~ 0
+GND
+Wire Wire Line
+	7850 9050 7250 9050
+Wire Wire Line
+	7250 9050 6550 9050
+Wire Wire Line
+	6550 9050 5850 9050
+Wire Wire Line
+	5850 9050 5850 8950
+Wire Wire Line
+	6550 8950 6550 9050
+Wire Wire Line
+	7250 9050 7250 9150
+Wire Wire Line
+	7250 9150 7250 9250
+Wire Wire Line
+	6450 9550 6650 9550
+Wire Wire Line
+	6650 9550 6650 9150
+Wire Wire Line
+	6650 9150 7250 9150
+Connection ~ 6550 9050
+Connection ~ 7250 9050
+Connection ~ 7250 9150
+Text Label 7850 9050 0    10   ~ 0
+GND
+Wire Wire Line
+	9550 4150 9650 4150
+Wire Wire Line
+	7450 1650 7450 1750
+Wire Wire Line
+	12800 10300 12800 10400
+Wire Wire Line
+	12800 10400 12800 10500
+Wire Wire Line
+	10800 10300 10800 10400
+Wire Wire Line
+	10800 10400 11200 10400
+Wire Wire Line
+	11200 10400 11600 10400
+Wire Wire Line
+	11600 10400 12000 10400
+Wire Wire Line
+	12000 10400 12400 10400
+Wire Wire Line
+	12400 10400 12800 10400
+Wire Wire Line
+	12400 10400 12400 10300
+Wire Wire Line
+	12000 10400 12000 10300
+Wire Wire Line
+	11600 10400 11600 10300
+Wire Wire Line
+	11200 10400 11200 10300
+Wire Wire Line
+	10800 10400 10400 10400
+Wire Wire Line
+	10400 10400 10400 10100
+Wire Wire Line
+	10400 10400 10000 10400
+Wire Wire Line
+	10000 10400 10000 10100
+Connection ~ 12800 10400
+Connection ~ 12400 10400
+Connection ~ 12000 10400
+Connection ~ 11600 10400
+Connection ~ 11200 10400
+Connection ~ 10800 10400
+Connection ~ 10400 10400
+Wire Wire Line
+	1550 4850 1550 4950
+Wire Wire Line
+	9250 7350 9250 7450
+Wire Wire Line
+	9250 7450 9250 7550
+Wire Wire Line
+	9250 7450 9150 7450
+Connection ~ 9250 7450
+Text Label 9250 7350 0    10   ~ 0
+GND
+Wire Wire Line
+	10450 3550 10350 3550
+Wire Wire Line
+	10350 3550 10350 4150
+Wire Wire Line
+	10350 4150 10350 4350
+Wire Wire Line
+	10450 4150 10350 4150
+Wire Wire Line
+	10450 2950 10350 2950
+Wire Wire Line
+	10350 2950 10350 3550
+Wire Wire Line
+	10350 2950 10350 2350
+Wire Wire Line
+	10350 2350 10450 2350
+Wire Wire Line
+	10350 2350 10350 1950
+Wire Wire Line
+	10350 1950 10350 1650
+Wire Wire Line
+	10350 1650 10450 1650
+Wire Wire Line
+	10850 1350 10850 1250
+Wire Wire Line
+	10850 1250 10350 1250
+Wire Wire Line
+	10350 1250 10350 1650
+Wire Wire Line
+	10850 2050 10850 1950
+Wire Wire Line
+	10850 1950 10350 1950
+Connection ~ 10350 4150
+Connection ~ 10350 3550
+Connection ~ 10350 2950
+Connection ~ 10350 2350
+Connection ~ 10350 1650
+Connection ~ 10350 1950
+Text Label 10450 3550 0    10   ~ 0
+GND
+Wire Wire Line
+	2850 1850 3150 1850
+Wire Wire Line
+	5350 9250 5350 9150
+Wire Wire Line
+	5350 9150 5350 8950
+Wire Wire Line
+	5350 9150 5850 9150
+Wire Wire Line
+	5850 9150 5850 9550
+Wire Wire Line
+	5850 9550 6050 9550
+Connection ~ 5350 9150
+Wire Wire Line
+	10450 6200 10450 6350
+Wire Wire Line
+	10450 6350 10450 6650
+Wire Wire Line
+	10450 6650 9950 6650
+Wire Wire Line
+	10450 6350 8250 6350
+Connection ~ 10450 6650
+Connection ~ 10450 6350
+Text Label 10000 6650 0    70   ~ 0
++12V
+Wire Wire Line
+	9950 8050 10200 8050
+Text Label 10200 8050 2    70   ~ 0
+-12V
+Wire Wire Line
+	7850 7650 7750 7650
+Wire Wire Line
+	7750 7650 7750 8150
+Wire Wire Line
+	7750 8150 7750 8250
+Wire Wire Line
+	7750 8250 7950 8250
+Wire Wire Line
+	7650 8150 7750 8150
+Wire Wire Line
+	8350 7150 7750 7150
+Wire Wire Line
+	7750 7150 7750 7650
+Connection ~ 7750 8150
+Connection ~ 7750 7650
+Wire Wire Line
+	7950 8550 7750 8550
+Wire Wire Line
+	7750 8550 7750 9250
+Wire Wire Line
+	7750 9250 7850 9250
+Wire Wire Line
+	7750 9250 7750 9650
+Wire Wire Line
+	7750 9650 7750 9950
+Wire Wire Line
+	7750 9950 8050 9950
+Wire Wire Line
+	7750 9650 8050 9650
+Connection ~ 7750 9250
+Connection ~ 7750 9650
+Wire Wire Line
+	9350 9150 9550 9150
+Wire Wire Line
+	4750 8150 5850 8150
+Wire Wire Line
+	5850 8150 6050 8150
+Wire Wire Line
+	5850 7950 5850 8150
+Connection ~ 5850 8150
+Wire Wire Line
+	6450 8150 6550 8150
+Wire Wire Line
+	6550 8150 6650 8150
+Wire Wire Line
+	6550 7950 6550 8150
+Connection ~ 6550 8150
+Wire Wire Line
+	4750 8050 5550 8050
+Wire Wire Line
+	5550 8050 5550 8450
+Wire Wire Line
+	5550 8450 5850 8450
+Wire Wire Line
+	5850 8450 6050 8450
+Wire Wire Line
+	5850 8450 5850 8550
+Connection ~ 5850 8450
+Wire Wire Line
+	6450 8450 6550 8450
+Wire Wire Line
+	6550 8450 6650 8450
+Wire Wire Line
+	6550 8450 6550 8650
+Connection ~ 6550 8450
+Wire Wire Line
+	7050 8150 7250 8150
+Wire Wire Line
+	7250 8150 7350 8150
+Wire Wire Line
+	7050 8450 7250 8450
+Wire Wire Line
+	7250 8450 7250 8150
+Connection ~ 7250 8150
+Wire Wire Line
+	4350 11050 4150 11050
+Wire Wire Line
+	4150 11050 4150 11350
+Wire Wire Line
+	4150 11350 3850 11350
+Wire Wire Line
+	4350 10350 4150 10350
+Wire Wire Line
+	4150 10350 4150 10150
+Wire Wire Line
+	4150 10150 3850 10150
+Wire Wire Line
+	4350 10250 4250 10250
+Wire Wire Line
+	4250 10250 4250 9550
+Wire Wire Line
+	3850 9550 4250 9550
+Wire Wire Line
+	4150 7850 2750 7850
+Text Label 2750 7850 0    70   ~ 0
+D2
+Wire Wire Line
+	1850 6350 1850 6750
+Text Label 1850 6750 1    70   ~ 0
+D2
+Wire Wire Line
+	850  1850 2250 1850
+Text Label 850  1850 0    70   ~ 0
+D2
+Wire Wire Line
+	4750 7750 4850 7750
+Wire Wire Line
+	4850 7750 4850 7350
+Wire Wire Line
+	4850 7350 2750 7350
+Text Label 2750 7350 0    70   ~ 0
+D1
+Wire Wire Line
+	1950 6350 1950 6750
+Text Label 1950 6750 1    70   ~ 0
+D1
+Wire Wire Line
+	850  2150 2250 2150
+Text Label 850  2150 0    70   ~ 0
+D1
+Wire Wire Line
+	4750 7850 4950 7850
+Wire Wire Line
+	4950 7850 4950 7250
+Wire Wire Line
+	4950 7250 2750 7250
+Text Label 2750 7250 0    70   ~ 0
+D0
+Wire Wire Line
+	850  2050 2250 2050
+Text Label 850  2050 0    70   ~ 0
+D0
+Wire Wire Line
+	2050 6350 2050 6750
+Text Label 2050 6750 1    70   ~ 0
+D0
+Wire Wire Line
+	4150 7950 2750 7950
+Text Label 2750 7950 0    70   ~ 0
+D3
+Wire Wire Line
+	850  1450 2250 1450
+Text Label 850  1450 0    70   ~ 0
+D3
+Wire Wire Line
+	1750 6350 1750 6750
+Text Label 1750 6750 1    70   ~ 0
+D3
+Wire Wire Line
+	4150 8050 2750 8050
+Text Label 2750 8050 0    70   ~ 0
+D4
+Wire Wire Line
+	1650 6350 1650 6750
+Text Label 1650 6750 1    70   ~ 0
+D4
+Wire Wire Line
+	850  1350 2250 1350
+Text Label 850  1350 0    70   ~ 0
+D4
+Wire Wire Line
+	4150 8150 2750 8150
+Text Label 2750 8150 0    70   ~ 0
+D5
+Wire Wire Line
+	1550 6350 1550 6750
+Text Label 1550 6750 1    70   ~ 0
+D5
+Wire Wire Line
+	850  1550 2250 1550
+Text Label 850  1550 0    70   ~ 0
+D5
+Wire Wire Line
+	4150 8250 2750 8250
+Text Label 2750 8250 0    70   ~ 0
+D6
+Wire Wire Line
+	1450 6350 1450 6750
+Text Label 1450 6750 1    70   ~ 0
+D6
+Wire Wire Line
+	850  1650 2250 1650
+Text Label 850  1650 0    70   ~ 0
+D6
+Wire Wire Line
+	4150 8450 2750 8450
+Text Label 2750 8450 0    70   ~ 0
+CLCK
+Wire Wire Line
+	2250 1250 850  1250
+Text Label 850  1250 0    70   ~ 0
+CLCK
+Wire Wire Line
+	1750 4950 1750 4350
+Wire Wire Line
+	850  4350 1750 4350
+Text Label 850  4350 0    70   ~ 0
+CLCK
+Wire Wire Line
+	4750 8550 4750 8750
+Wire Wire Line
+	4750 8750 2750 8750
+Text Label 2750 8750 0    70   ~ 0
+A0
+Wire Wire Line
+	2850 1750 4250 1750
+Text Label 4250 1750 2    70   ~ 0
+A0
+Wire Wire Line
+	3750 6350 3750 6750
+Text Label 3750 6750 1    70   ~ 0
+A0
+Wire Wire Line
+	4750 4400 4450 4400
+Text Label 4450 4400 0    70   ~ 0
+A0
+Wire Wire Line
+	2750 11350 3050 11350
+Text Label 2750 11350 0    70   ~ 0
+A1
+Wire Wire Line
+	2850 1650 4250 1650
+Text Label 4250 1650 2    70   ~ 0
+A1
+Wire Wire Line
+	3650 6350 3650 6750
+Text Label 3650 6750 1    70   ~ 0
+A1
+Wire Wire Line
+	4750 3900 4450 3900
+Text Label 4450 3900 0    70   ~ 0
+A1
+Wire Wire Line
+	4350 10850 2750 10850
+Text Label 2750 10850 0    70   ~ 0
+A2
+Wire Wire Line
+	2850 1550 4250 1550
+Text Label 4250 1550 2    70   ~ 0
+A2
+Wire Wire Line
+	3550 6350 3550 6750
+Text Label 3550 6750 1    70   ~ 0
+A2
+Wire Wire Line
+	5750 3100 4450 3100
+Text Label 4450 3100 0    70   ~ 0
+A2
+Wire Wire Line
+	4350 10750 2750 10750
+Text Label 2750 10750 0    70   ~ 0
+A3
+Wire Wire Line
+	2850 1450 4250 1450
+Text Label 4250 1450 2    70   ~ 0
+A3
+Wire Wire Line
+	3450 6350 3450 6750
+Text Label 3450 6750 1    70   ~ 0
+A3
+Wire Wire Line
+	4750 3700 4450 3700
+Text Label 4450 3700 0    70   ~ 0
+A3
+Wire Wire Line
+	4350 10450 2750 10450
+Text Label 2750 10450 0    70   ~ 0
+A6
+Wire Wire Line
+	2850 1150 4250 1150
+Text Label 4250 1150 2    70   ~ 0
+A6
+Wire Wire Line
+	3150 6350 3150 6750
+Text Label 3150 6750 1    70   ~ 0
+A6
+Wire Wire Line
+	5750 2700 4450 2700
+Text Label 4450 2700 0    70   ~ 0
+A6
+Wire Wire Line
+	3050 10150 2750 10150
+Text Label 2750 10150 0    70   ~ 0
+A7
+Wire Wire Line
+	2850 1050 4250 1050
+Text Label 4250 1050 2    70   ~ 0
+A7
+Wire Wire Line
+	3050 6350 3050 6750
+Text Label 3050 6750 1    70   ~ 0
+A7
+Wire Wire Line
+	5750 2600 4450 2600
+Text Label 4450 2600 0    70   ~ 0
+A7
+Wire Wire Line
+	4750 8450 4850 8450
+Wire Wire Line
+	4850 8450 4850 8850
+Wire Wire Line
+	4850 8850 2750 8850
+Text Label 2750 8850 0    70   ~ 0
+WR
+Wire Wire Line
+	6750 3450 6250 3450
+Wire Wire Line
+	6250 3450 6250 4850
+Wire Wire Line
+	4450 4850 6250 4850
+Text Label 4450 4850 0    70   ~ 0
+WR
+Wire Wire Line
+	2850 2550 4250 2550
+Text Label 4250 2550 2    70   ~ 0
+WR
+Wire Wire Line
+	3350 4950 3350 4150
+Wire Wire Line
+	4250 4150 3350 4150
+Text Label 4250 4150 2    70   ~ 0
+WR
+Wire Wire Line
+	4750 8250 4950 8250
+Wire Wire Line
+	4950 8250 4950 8950
+Wire Wire Line
+	4950 8950 2750 8950
+Text Label 2750 8950 0    70   ~ 0
+RST
+Wire Wire Line
+	4250 2150 2850 2150
+Text Label 4250 2150 2    70   ~ 0
+RST
+Wire Wire Line
+	2250 4950 2250 4050
+Wire Wire Line
+	850  4050 2250 4050
+Text Label 850  4050 0    70   ~ 0
+RST
+Wire Wire Line
+	3050 9550 2750 9550
+Text Label 2750 9550 0    70   ~ 0
+IORQ
+Wire Wire Line
+	4750 4600 4450 4600
+Text Label 4450 4600 0    70   ~ 0
+IORQ
+Wire Wire Line
+	2250 2650 850  2650
+Text Label 850  2650 0    70   ~ 0
+IORQ
+Wire Wire Line
+	3550 4950 3550 4350
+Wire Wire Line
+	4250 4350 3550 4350
+Wire Wire Line
+	8350 8250 8750 8250
+Wire Wire Line
+	8450 7550 8750 7550
+Wire Wire Line
+	8750 8550 8350 8550
+Wire Wire Line
+	8750 7550 8750 8250
+Wire Wire Line
+	8750 8250 8750 8550
+Wire Wire Line
+	8750 7550 8750 7150
+Wire Wire Line
+	8750 7150 8650 7150
+Connection ~ 8750 8250
+Connection ~ 8750 7550
+Wire Wire Line
+	4350 10550 2750 10550
+Text Label 2750 10550 0    70   ~ 0
+A4
+Wire Wire Line
+	2850 1350 4250 1350
+Text Label 4250 1350 2    70   ~ 0
+A4
+Wire Wire Line
+	3350 6350 3350 6750
+Text Label 3350 6750 1    70   ~ 0
+A4
+Wire Wire Line
+	5750 2900 4450 2900
+Text Label 4450 2900 0    70   ~ 0
+A4
+Wire Wire Line
+	4350 10950 2750 10950
+Text Label 2750 10950 0    70   ~ 0
+A5
+Wire Wire Line
+	2850 1250 4250 1250
+Text Label 4250 1250 2    70   ~ 0
+A5
+Wire Wire Line
+	3250 6350 3250 6750
+Text Label 3250 6750 1    70   ~ 0
+A5
+Wire Wire Line
+	5750 2800 4450 2800
+Text Label 4450 2800 0    70   ~ 0
+A5
+Wire Wire Line
+	850  1950 2250 1950
+Text Label 850  1950 0    70   ~ 0
+D7
+Wire Wire Line
+	9650 2050 9650 2150
+Wire Wire Line
+	7450 2050 9650 2050
+Wire Wire Line
+	7950 3150 7450 3150
+Wire Wire Line
+	7450 3150 7450 2050
+Wire Wire Line
+	7450 2050 4450 2050
+Connection ~ 7450 2050
+Text Label 4450 2050 0    70   ~ 0
+D7
+Wire Wire Line
+	4150 8350 2750 8350
+Text Label 2750 8350 0    70   ~ 0
+D7
+Wire Wire Line
+	1350 6350 1350 6750
+Text Label 1350 6750 1    70   ~ 0
+D7
+Wire Wire Line
+	9150 1850 8850 1850
+Wire Wire Line
+	8850 1850 8550 1850
+Wire Wire Line
+	8850 1850 8850 1550
+Wire Wire Line
+	8850 1550 8450 1550
+Wire Wire Line
+	8850 1850 8850 2750
+Wire Wire Line
+	8850 2750 7850 2750
+Wire Wire Line
+	7850 2750 7850 3050
+Wire Wire Line
+	7850 3050 7950 3050
+Connection ~ 8850 1850
+Wire Wire Line
+	5750 3200 4450 3200
+Text Label 4450 3200 0    70   ~ 0
+M1
+Wire Wire Line
+	4250 4550 3750 4550
+Wire Wire Line
+	3750 4950 3750 4550
+Text Label 4250 4550 2    70   ~ 0
+M1
+Wire Wire Line
+	4250 2050 2850 2050
+Text Label 4250 2050 2    70   ~ 0
+M1
+Wire Wire Line
+	5650 4500 5350 4500
+Wire Wire Line
+	5650 3400 5650 4500
+Wire Wire Line
+	5750 3400 5650 3400
+Wire Wire Line
+	7950 3350 7350 3350
+Wire Wire Line
+	7350 4350 7450 4350
+Wire Wire Line
+	7450 4350 7450 3750
+Wire Wire Line
+	7450 3750 8450 3750
+Wire Wire Line
+	8450 3750 8450 3850
+Wire Wire Line
+	6350 3000 6550 3000
+Wire Wire Line
+	6550 3000 6550 3250
+Wire Wire Line
+	6550 3250 6550 4250
+Wire Wire Line
+	6550 4250 6750 4250
+Wire Wire Line
+	6750 3250 6550 3250
+Connection ~ 6550 3250
+Wire Wire Line
+	4250 4250 3450 4250
+Wire Wire Line
+	3450 4950 3450 4250
+Text Label 4250 4250 2    70   ~ 0
+RD
+Wire Wire Line
+	2850 2650 4250 2650
+Text Label 4250 2650 2    70   ~ 0
+RD
+Wire Wire Line
+	6750 4450 6550 4450
+Wire Wire Line
+	6550 4450 6550 4950
+Wire Wire Line
+	4450 4950 6550 4950
+Text Label 4450 4950 0    70   ~ 0
+RD
+Wire Wire Line
+	9050 4150 9150 4150
+Wire Wire Line
+	8850 4150 9050 4150
+Wire Wire Line
+	9350 2550 9050 2550
+Wire Wire Line
+	9050 2550 9050 4150
+Connection ~ 9050 4150
+Wire Wire Line
+	9650 2950 9650 3050
+Wire Wire Line
+	9650 3050 8950 3050
+Wire Wire Line
+	2250 2550 850  2550
+Text Label 850  2550 0    70   ~ 0
+MREQ
+Wire Wire Line
+	3650 4950 3650 4450
+Wire Wire Line
+	4250 4450 3650 4450
+Text Label 4250 4450 2    70   ~ 0
+MREQ
+Wire Wire Line
+	2850 1950 4250 1950
+Text Label 4250 1950 2    70   ~ 0
+RFSH
+Wire Wire Line
+	4250 4050 3150 4050
+Wire Wire Line
+	3150 4050 3150 4950
+Text Label 4250 4050 2    70   ~ 0
+RFSH
+Wire Wire Line
+	2250 2450 850  2450
+Text Label 850  2450 0    70   ~ 0
+HALT
+Wire Wire Line
+	2950 4950 2950 3950
+Wire Wire Line
+	4250 3950 2950 3950
+Text Label 4250 3950 2    70   ~ 0
+HALT
+Wire Wire Line
+	4250 2350 2850 2350
+Text Label 4250 2350 2    70   ~ 0
+WAIT
+Wire Wire Line
+	2750 4950 2750 3850
+Wire Wire Line
+	4250 3850 2750 3850
+Text Label 4250 3850 2    70   ~ 0
+WAIT
+Wire Wire Line
+	2250 2250 850  2250
+Text Label 850  2250 0    70   ~ 0
+INT
+Wire Wire Line
+	2550 4950 2550 3850
+Wire Wire Line
+	2550 3850 850  3850
+Text Label 850  3850 0    70   ~ 0
+INT
+Wire Wire Line
+	2250 2350 850  2350
+Text Label 850  2350 0    70   ~ 0
+NMI
+Wire Wire Line
+	2450 4950 2450 3950
+Wire Wire Line
+	2450 3950 850  3950
+Text Label 850  3950 0    70   ~ 0
+NMI
+Wire Wire Line
+	4250 2250 2850 2250
+Text Label 4250 2250 2    70   ~ 0
+BUSRQ
+Wire Wire Line
+	2050 4950 2050 4150
+Wire Wire Line
+	850  4150 2050 4150
+Text Label 850  4150 0    70   ~ 0
+BUSRQ
+Wire Wire Line
+	4250 2450 2850 2450
+Text Label 4250 2450 2    70   ~ 0
+BUSAK
+Wire Wire Line
+	1950 4950 1950 4250
+Wire Wire Line
+	850  4250 1950 4250
+Text Label 850  4250 0    70   ~ 0
+BUSAK
+Wire Wire Line
+	2250 1150 850  1150
+Text Label 850  1150 0    70   ~ 0
+A15
+Wire Wire Line
+	2250 6350 2250 6750
+Text Label 2250 6750 1    70   ~ 0
+A15
+Wire Wire Line
+	2250 1050 850  1050
+Text Label 850  1050 0    70   ~ 0
+A14
+Wire Wire Line
+	2350 6350 2350 6750
+Text Label 2350 6750 1    70   ~ 0
+A14
+Wire Wire Line
+	2250 950  850  950 
+Text Label 850  950  0    70   ~ 0
+A13
+Wire Wire Line
+	2450 6350 2450 6750
+Text Label 2450 6750 1    70   ~ 0
+A13
+Wire Wire Line
+	2250 850  850  850 
+Text Label 850  850  0    70   ~ 0
+A12
+Wire Wire Line
+	2550 6350 2550 6750
+Text Label 2550 6750 1    70   ~ 0
+A12
+Wire Wire Line
+	2250 750  850  750 
+Text Label 850  750  0    70   ~ 0
+A11
+Wire Wire Line
+	2650 6350 2650 6750
+Text Label 2650 6750 1    70   ~ 0
+A11
+Wire Wire Line
+	2850 950  4250 950 
+Text Label 4250 950  2    70   ~ 0
+A8
+Wire Wire Line
+	2950 6350 2950 6750
+Text Label 2950 6750 1    70   ~ 0
+A8
+Wire Wire Line
+	2850 850  4250 850 
+Text Label 4250 850  2    70   ~ 0
+A9
+Wire Wire Line
+	2850 6350 2850 6750
+Text Label 2850 6750 1    70   ~ 0
+A9
+Wire Wire Line
+	2850 750  4250 750 
+Text Label 4250 750  2    70   ~ 0
+A10
+Wire Wire Line
+	2750 6350 2750 6750
+Text Label 2750 6750 1    70   ~ 0
+A10
+Text Label 10200 8700 0    70   ~ 0
+AMP
+Wire Wire Line
+	6950 6350 7250 6350
+Wire Wire Line
+	7250 6350 7850 6350
+Wire Wire Line
+	7250 6750 7250 6350
+Connection ~ 7250 6350
+Wire Wire Line
+	8150 6650 9250 6650
+Wire Wire Line
+	9250 6650 9550 6650
+Wire Wire Line
+	8150 7250 8150 6650
+Wire Wire Line
+	9250 7050 9250 6650
+Connection ~ 9250 6650
+Wire Wire Line
+	8150 7850 8150 8050
+Wire Wire Line
+	8150 8050 9250 8050
+Wire Wire Line
+	9250 8050 9550 8050
+Wire Wire Line
+	9250 7850 9250 8050
+Connection ~ 9250 8050
+Wire Wire Line
+	8450 9150 8750 9150
+Wire Wire Line
+	8750 9150 8950 9150
+Wire Wire Line
+	8750 9950 8450 9950
+Wire Wire Line
+	8750 9150 8750 9650
+Wire Wire Line
+	8750 9650 8750 9950
+Wire Wire Line
+	8350 9650 8750 9650
+Connection ~ 8750 9150
+Connection ~ 8750 9650
+Wire Wire Line
+	12800 9700 12800 9600
+Wire Wire Line
+	12800 9600 12800 9500
+Wire Wire Line
+	10800 9700 10800 9600
+Wire Wire Line
+	10800 9600 11200 9600
+Wire Wire Line
+	11200 9600 11600 9600
+Wire Wire Line
+	11600 9600 12000 9600
+Wire Wire Line
+	12000 9600 12400 9600
+Wire Wire Line
+	12400 9600 12800 9600
+Wire Wire Line
+	11200 9700 11200 9600
+Wire Wire Line
+	11600 9700 11600 9600
+Wire Wire Line
+	12000 9700 12000 9600
+Wire Wire Line
+	12400 9600 12400 9700
+Wire Wire Line
+	10800 9600 10400 9600
+Wire Wire Line
+	10400 9600 10400 9800
+Wire Wire Line
+	10400 9600 10000 9600
+Wire Wire Line
+	10000 9600 10000 9800
+Connection ~ 12800 9600
+Connection ~ 11200 9600
+Connection ~ 11600 9600
+Connection ~ 12000 9600
+Connection ~ 12400 9600
+Connection ~ 10800 9600
+Connection ~ 10400 9600
+Text Label 12800 9700 0    10   ~ 0
++5V
+Wire Wire Line
+	10050 4450 10050 1250
+Wire Wire Line
+	10050 1250 7850 1250
+Wire Wire Line
+	7850 1250 7450 1250
+Wire Wire Line
+	8150 1850 7850 1850
+Wire Wire Line
+	8150 1550 7850 1550
+Wire Wire Line
+	7850 1550 7850 1850
+Wire Wire Line
+	10050 4450 7850 4450
+Wire Wire Line
+	7850 4150 7850 4450
+Wire Wire Line
+	8050 4150 7850 4150
+Wire Wire Line
+	7950 3450 7850 3450
+Wire Wire Line
+	7850 3450 7850 4150
+Wire Wire Line
+	7450 1150 7450 1250
+Wire Wire Line
+	7850 1550 7850 1250
+Wire Wire Line
+	7450 1250 7450 1350
+Connection ~ 7850 4150
+Connection ~ 7850 1550
+Connection ~ 7850 1250
+Connection ~ 7450 1250
+Text Label 10050 4450 0    10   ~ 0
++5V
+Wire Wire Line
+	2050 1750 2250 1750
+Text Label 2050 1750 0    10   ~ 0
++5V
+Wire Wire Line
+	1350 4750 1350 4950
+Wire Wire Line
+	6150 6350 5850 6350
+Wire Wire Line
+	5850 6350 5850 6750
+Wire Wire Line
+	5850 6350 5350 6350
+Wire Wire Line
+	5350 6350 5350 7950
+Wire Wire Line
+	5350 7950 4750 7950
+Wire Wire Line
+	5350 7950 5350 8650
+Connection ~ 5850 6350
+Connection ~ 5350 7950
+Text Label 5350 6350 0    70   ~ 0
++5VREG
+Entry Wire Line
+	3650 6850 3750 6750
+Entry Wire Line
+	3550 6850 3650 6750
+Entry Wire Line
+	3450 6850 3550 6750
+Entry Wire Line
+	3350 6850 3450 6750
+Entry Wire Line
+	3050 6850 3150 6750
+Entry Wire Line
+	2950 6850 3050 6750
+Entry Wire Line
+	3250 6850 3350 6750
+Entry Wire Line
+	3150 6850 3250 6750
+Entry Wire Line
+	2850 6850 2950 6750
+Entry Wire Line
+	2750 6850 2850 6750
+Entry Wire Line
+	2650 6850 2750 6750
+Entry Wire Line
+	1750 6850 1850 6750
+Entry Wire Line
+	1850 6850 1950 6750
+Entry Wire Line
+	1950 6850 2050 6750
+Entry Wire Line
+	1650 6850 1750 6750
+Entry Wire Line
+	1550 6850 1650 6750
+Entry Wire Line
+	1450 6850 1550 6750
+Entry Wire Line
+	1350 6850 1450 6750
+Entry Wire Line
+	1250 6850 1350 6750
+Entry Wire Line
+	2150 6850 2250 6750
+Entry Wire Line
+	2250 6850 2350 6750
+Entry Wire Line
+	2350 6850 2450 6750
+Entry Wire Line
+	2450 6850 2550 6750
+Entry Wire Line
+	4250 1750 4350 1850
+Entry Wire Line
+	4350 4300 4450 4400
+Entry Wire Line
+	4250 1650 4350 1750
+Entry Wire Line
+	4350 3800 4450 3900
+Entry Wire Line
+	4250 1550 4350 1650
+Entry Wire Line
+	4350 3000 4450 3100
+Entry Wire Line
+	4250 1450 4350 1550
+Entry Wire Line
+	4350 3600 4450 3700
+Entry Wire Line
+	4250 1150 4350 1250
+Entry Wire Line
+	4350 2600 4450 2700
+Entry Wire Line
+	4250 1050 4350 1150
+Entry Wire Line
+	4350 2500 4450 2600
+Entry Wire Line
+	4350 4750 4450 4850
+Entry Wire Line
+	4250 4150 4350 4050
+Entry Wire Line
+	4250 2250 4350 2350
+Entry Wire Line
+	4350 4500 4450 4600
+Entry Wire Line
+	4250 4350 4350 4250
+Entry Wire Line
+	4250 1350 4350 1450
+Entry Wire Line
+	4350 2800 4450 2900
+Entry Wire Line
+	4250 1250 4350 1350
+Entry Wire Line
+	4350 2700 4450 2800
+Entry Wire Line
+	4350 1950 4450 2050
+Entry Wire Line
+	4350 3100 4450 3200
+Entry Wire Line
+	4250 4550 4350 4450
+Entry Wire Line
+	4250 2350 4350 2450
+Entry Wire Line
+	4250 4250 4350 4150
+Entry Wire Line
+	4250 2650 4350 2750
+Entry Wire Line
+	4350 4850 4450 4950
+Entry Wire Line
+	4250 4450 4350 4350
+Entry Wire Line
+	4350 2550 4250 2450
+Entry Wire Line
+	4250 4050 4350 3950
+Entry Wire Line
+	4250 3950 4350 3850
+Entry Wire Line
+	4250 2050 4350 2150
+Entry Wire Line
+	4250 3850 4350 3750
+Entry Wire Line
+	4250 2150 4350 2250
+Entry Wire Line
+	4250 1950 4350 2050
+Entry Wire Line
+	4250 950  4350 1050
+Entry Wire Line
+	4250 850  4350 950 
+Entry Wire Line
+	4250 750  4350 850 
+Entry Wire Line
+	750  1750 850  1850
+Entry Wire Line
+	750  2050 850  2150
+Entry Wire Line
+	750  1950 850  2050
+Entry Wire Line
+	750  1350 850  1450
+Entry Wire Line
+	750  1250 850  1350
+Entry Wire Line
+	750  1450 850  1550
+Entry Wire Line
+	750  1550 850  1650
+Entry Wire Line
+	750  1150 850  1250
+Entry Wire Line
+	750  4250 850  4350
+Entry Wire Line
+	750  3950 850  4050
+Entry Wire Line
+	750  2550 850  2650
+Entry Wire Line
+	750  1850 850  1950
+Entry Wire Line
+	750  2450 850  2550
+Entry Wire Line
+	750  2350 850  2450
+Entry Wire Line
+	750  2150 850  2250
+Entry Wire Line
+	750  3750 850  3850
+Entry Wire Line
+	750  2250 850  2350
+Entry Wire Line
+	750  3850 850  3950
+Entry Wire Line
+	750  4050 850  4150
+Entry Wire Line
+	750  4150 850  4250
+Entry Wire Line
+	750  1050 850  1150
+Entry Wire Line
+	750  950  850  1050
+Entry Wire Line
+	750  850  850  950 
+Entry Wire Line
+	750  750  850  850 
+Entry Wire Line
+	850  750  750  650 
+Entry Wire Line
+	2650 7750 2750 7850
+Entry Wire Line
+	2650 7250 2750 7350
+Entry Wire Line
+	2650 7150 2750 7250
+Entry Wire Line
+	2650 7850 2750 7950
+Entry Wire Line
+	2650 7950 2750 8050
+Entry Wire Line
+	2650 8050 2750 8150
+Entry Wire Line
+	2650 8150 2750 8250
+Entry Wire Line
+	2650 8350 2750 8450
+Entry Wire Line
+	2650 8650 2750 8750
+Entry Wire Line
+	2650 11250 2750 11350
+Entry Wire Line
+	2650 10750 2750 10850
+Entry Wire Line
+	2650 10650 2750 10750
+Entry Wire Line
+	2650 10350 2750 10450
+Entry Wire Line
+	2650 10050 2750 10150
+Entry Wire Line
+	2650 8750 2750 8850
+Entry Wire Line
+	2650 8850 2750 8950
+Entry Wire Line
+	2650 9450 2750 9550
+Entry Wire Line
+	2650 10450 2750 10550
+Entry Wire Line
+	2650 10850 2750 10950
+Entry Wire Line
+	2650 8250 2750 8350
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:DIL18-f4mpac-eagle-import IC1
+U 1 1 F7D75C2B
+P 4450 8150
+F 0 "IC1" H 4350 8150 59  0000 L BNN
+F 1 "YM2413" H 4300 8000 59  0000 L BNN
+F 2 "Package_DIP:DIP-18_W7.62mm" H 4450 8150 50  0001 C CNN
+F 3 "" H 4450 8150 50  0001 C CNN
+	1    4450 8150
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7430D-f4mpac-eagle-import IC2
+U 1 1 F2F968D4
+P 4650 10650
+F 0 "IC2" H 4750 10800 59  0000 L BNN
+F 1 "74LS30D" H 4850 10350 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 4650 10650 50  0001 C CNN
+F 3 "" H 4650 10650 50  0001 C CNN
+	1    4650 10650
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7404D-f4mpac-eagle-import IC3
+U 2 1 46AE476F
+P 3450 10150
+F 0 "IC3" H 3300 10100 59  0000 L BNN
+F 1 "74LS04D" H 3550 9950 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3450 10150 50  0001 C CNN
+F 3 "" H 3450 10150 50  0001 C CNN
+	2    3450 10150
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7404D-f4mpac-eagle-import IC3
+U 3 1 46AE476B
+P 3450 11350
+F 0 "IC3" H 3300 11300 59  0000 L BNN
+F 1 "74LS04D" H 3550 11150 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3450 11350 50  0001 C CNN
+F 3 "" H 3450 11350 50  0001 C CNN
+	3    3450 11350
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:CPOL-EUSMCC-f4mpac-eagle-import C5
+U 1 1 90610EEC
+P 9250 7150
+F 0 "C5" H 9295 7169 59  0000 L BNN
+F 1 "47uF 16v" H 9295 6969 59  0000 L BNN
+F 2 "Capacitor_THT:CP_Radial_D7.5mm_P2.50mm" H 9250 7150 50  0001 C CNN
+F 3 "" H 9250 7150 50  0001 C CNN
+	1    9250 7150
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:CPOL-EUSMCC-f4mpac-eagle-import C6
+U 1 1 97154A42
+P 9250 7650
+F 0 "C6" H 9295 7669 59  0000 L BNN
+F 1 "47uF 16v" H 9295 7469 59  0000 L BNN
+F 2 "Capacitor_THT:CP_Radial_D7.5mm_P2.50mm" H 9250 7650 50  0001 C CNN
+F 3 "" H 9250 7650 50  0001 C CNN
+	1    9250 7650
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:CPOL-EUSMCB-f4mpac-eagle-import C1
+U 1 1 1493FA68
+P 9750 9150
+F 0 "C1" H 9795 9169 59  0000 L BNN
+F 1 "2.2uF25v" H 9795 8969 59  0000 L BNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 9750 9150 50  0001 C CNN
+F 3 "" H 9750 9150 50  0001 C CNN
+	1    9750 9150
+	0    1    1    0   
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:CPOL-EUSMCB-f4mpac-eagle-import C2
+U 1 1 5C16C44B
+P 7450 8150
+F 0 "C2" H 7495 8169 59  0000 L BNN
+F 1 "2.2uF25v" H 7495 7969 59  0000 L BNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 7450 8150 50  0001 C CNN
+F 3 "" H 7450 8150 50  0001 C CNN
+	1    7450 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:C-EUC0805-f4mpac-eagle-import C3
+U 1 1 9F238EA5
+P 6550 7750
+F 0 "C3" H 6610 7765 59  0000 L BNN
+F 1 "22pF" H 6610 7565 59  0000 L BNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 6550 7750 50  0001 C CNN
+F 3 "" H 6550 7750 50  0001 C CNN
+	1    6550 7750
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:C-EUC0805-f4mpac-eagle-import C4
+U 1 1 BD8B3D1F
+P 6550 8750
+F 0 "C4" H 6610 8765 59  0000 L BNN
+F 1 "22pF" H 6610 8565 59  0000 L BNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 6550 8750 50  0001 C CNN
+F 3 "" H 6550 8750 50  0001 C CNN
+	1    6550 8750
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:CPOL-EUSMCB-f4mpac-eagle-import C7
+U 1 1 948E86FF
+P 7250 6850
+F 0 "C7" H 7295 6869 59  0000 L BNN
+F 1 "1uF 25v" H 7295 6669 59  0000 L BNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 7250 6850 50  0001 C CNN
+F 3 "" H 7250 6850 50  0001 C CNN
+	1    7250 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:4558N-f4mpac-eagle-import IC4
+U 1 1 572D35E7
+P 8150 7550
+F 0 "IC4" H 8250 7675 59  0001 L BNN
+F 1 "LM4558N" H 8250 7350 59  0001 L BNN
+F 2 "Package_DIP:DIP-8_W7.62mm" H 8150 7550 50  0001 C CNN
+F 3 "" H 8150 7550 50  0001 C CNN
+	1    8150 7550
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:4558N-f4mpac-eagle-import IC4
+U 2 1 572D35EB
+P 8150 9150
+F 0 "IC4" H 8250 9275 59  0001 L BNN
+F 1 "LM4558N" H 8250 8950 59  0001 L BNN
+F 2 "Package_DIP:DIP-8_W7.62mm" H 8150 9150 50  0001 C CNN
+F 3 "" H 8150 9150 50  0001 C CNN
+	2    8150 9150
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:R-EU_R0805-f4mpac-eagle-import R11
+U 1 1 2077F046
+P 8050 6350
+F 0 "R11" H 7900 6409 59  0000 L BNN
+F 1 "68" H 7900 6220 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 8050 6350 50  0001 C CNN
+F 3 "" H 8050 6350 50  0001 C CNN
+	1    8050 6350
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:4558N-f4mpac-eagle-import IC4
+U 3 1 572D35EF
+P 8150 7550
+F 0 "IC4" H 8250 7675 59  0001 L BNN
+F 1 "LM4558N" H 8250 7350 59  0001 L BNN
+F 2 "Package_DIP:DIP-8_W7.62mm" H 8150 7550 50  0001 C CNN
+F 3 "" H 8150 7550 50  0001 C CNN
+	3    8150 7550
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:GND-f4mpac-eagle-import #GND01
+U 1 1 DB8695AC
+P 7250 7750
+F 0 "#GND01" H 7250 7750 50  0001 C CNN
+F 1 "GND" H 7150 7650 59  0000 L BNN
+F 2 "" H 7250 7750 50  0001 C CNN
+F 3 "" H 7250 7750 50  0001 C CNN
+	1    7250 7750
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:R-EU_R0805-f4mpac-eagle-import R13
+U 1 1 E4B75BFE
+P 9750 8050
+F 0 "R13" H 9600 8109 59  0000 L BNN
+F 1 "100" H 9600 7920 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 9750 8050 50  0001 C CNN
+F 3 "" H 9750 8050 50  0001 C CNN
+	1    9750 8050
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:R-EU_R0805-f4mpac-eagle-import R3
+U 1 1 F4522429
+P 8150 8250
+F 0 "R3" H 8000 8309 59  0000 L BNN
+F 1 "170k" H 8000 8120 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 8150 8250 50  0001 C CNN
+F 3 "" H 8150 8250 50  0001 C CNN
+	1    8150 8250
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:R-EU_R0805-f4mpac-eagle-import R2
+U 1 1 B0479FD4
+P 8150 8550
+F 0 "R2" H 8000 8609 59  0000 L BNN
+F 1 "22k" H 8000 8420 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 8150 8550 50  0001 C CNN
+F 3 "" H 8150 8550 50  0001 C CNN
+	1    8150 8550
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:R-EU_R0805-f4mpac-eagle-import R1
+U 1 1 8841AD41
+P 8250 9950
+F 0 "R1" H 8100 10009 59  0000 L BNN
+F 1 "22k" H 8100 9820 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 8250 9950 50  0001 C CNN
+F 3 "" H 8250 9950 50  0001 C CNN
+	1    8250 9950
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:R-EU_R0805-f4mpac-eagle-import R4
+U 1 1 FFC636DE
+P 9150 9150
+F 0 "R4" H 9000 9209 59  0000 L BNN
+F 1 "2.2k" H 9000 9020 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 9150 9150 50  0001 C CNN
+F 3 "" H 9150 9150 50  0001 C CNN
+	1    9150 9150
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:R-EU_R0805-f4mpac-eagle-import R5
+U 1 1 D843F88A
+P 6250 8150
+F 0 "R5" H 6100 8209 59  0000 L BNN
+F 1 "2.2k" H 6100 8020 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 6250 8150 50  0001 C CNN
+F 3 "" H 6250 8150 50  0001 C CNN
+	1    6250 8150
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:R-EU_R0805-f4mpac-eagle-import R6
+U 1 1 49C0FAD7
+P 6250 8450
+F 0 "R6" H 6100 8509 59  0000 L BNN
+F 1 "2.2k" H 6100 8320 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 6250 8450 50  0001 C CNN
+F 3 "" H 6250 8450 50  0001 C CNN
+	1    6250 8450
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:R-EU_R0805-f4mpac-eagle-import R7
+U 1 1 B3263452
+P 5850 7750
+F 0 "R7" H 5700 7809 59  0000 L BNN
+F 1 "2.2k" H 5700 7620 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 5850 7750 50  0001 C CNN
+F 3 "" H 5850 7750 50  0001 C CNN
+	1    5850 7750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:R-EU_R0805-f4mpac-eagle-import R8
+U 1 1 9EF7630A
+P 5850 8750
+F 0 "R8" H 5700 8809 59  0000 L BNN
+F 1 "2.2k" H 5700 8620 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 5850 8750 50  0001 C CNN
+F 3 "" H 5850 8750 50  0001 C CNN
+	1    5850 8750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:R-EU_R0805-f4mpac-eagle-import R9
+U 1 1 6C1932C3
+P 6850 8450
+F 0 "R9" H 6700 8509 59  0000 L BNN
+F 1 "22k" H 6700 8320 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 6850 8450 50  0001 C CNN
+F 3 "" H 6850 8450 50  0001 C CNN
+	1    6850 8450
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:R-EU_R0805-f4mpac-eagle-import R10
+U 1 1 3BFD26E3
+P 6850 8150
+F 0 "R10" H 6700 8209 59  0000 L BNN
+F 1 "22k" H 6700 8020 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 6850 8150 50  0001 C CNN
+F 3 "" H 6850 8150 50  0001 C CNN
+	1    6850 8150
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7404D-f4mpac-eagle-import IC3
+U 4 1 46AE4777
+P 3450 9550
+F 0 "IC3" H 3300 9500 59  0000 L BNN
+F 1 "74LS04D" H 3550 9350 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3450 9550 50  0001 C CNN
+F 3 "" H 3450 9550 50  0001 C CNN
+	4    3450 9550
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:Z80CPU-f4mpac-eagle-import IC5
+U 1 1 D1089C11
+P 2650 5650
+F 0 "IC5" H 2150 6875 59  0000 L BNN
+F 1 "Z80" H 2150 4150 59  0000 L BNN
+F 2 "Package_DIP:DIP-40_W15.24mm" H 2650 5650 50  0001 C CNN
+F 3 "" H 2650 5650 50  0001 C CNN
+	1    2650 5650
+	0    1    1    0   
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:R-EU_R0805-f4mpac-eagle-import R14
+U 1 1 D72D4FE0
+P 9350 4150
+F 0 "R14" H 9200 4209 59  0000 L BNN
+F 1 "1k" H 9200 4020 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 9350 4150 50  0001 C CNN
+F 3 "" H 9350 4150 50  0001 C CNN
+	1    9350 4150
+	-1   0    0    1   
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7430D-f4mpac-eagle-import IC6
+U 1 1 CCA5B87A
+P 6050 3000
+F 0 "IC6" H 6200 3200 59  0000 L BNN
+F 1 "74LS30D" H 6250 2700 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 6050 3000 50  0001 C CNN
+F 3 "" H 6050 3000 50  0001 C CNN
+	1    6050 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7474D-f4mpac-eagle-import IC8
+U 1 1 E0DF5252
+P 8450 3250
+F 0 "IC8" H 8425 3225 59  0000 L BNN
+F 1 "74LS74D" H 8150 2850 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 8450 3250 50  0001 C CNN
+F 3 "" H 8450 3250 50  0001 C CNN
+	1    8450 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:74125D-f4mpac-eagle-import IC9
+U 2 1 34A988DC
+P 8450 4150
+F 0 "IC9" H 8425 4125 59  0000 L BNN
+F 1 "74LS125D" H 8550 3950 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 8450 4150 50  0001 C CNN
+F 3 "" H 8450 4150 50  0001 C CNN
+	2    8450 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:74125D-f4mpac-eagle-import IC9
+U 1 1 34A988D0
+P 9650 2550
+F 0 "IC9" H 9625 2525 59  0000 L BNN
+F 1 "74LS125D" H 9750 2350 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 9650 2550 50  0001 C CNN
+F 3 "" H 9650 2550 50  0001 C CNN
+	1    9650 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7402D-f4mpac-eagle-import IC7
+U 1 1 CEECACE3
+P 7050 3350
+F 0 "IC7" H 7025 3325 59  0000 L BNN
+F 1 "74LS02D" H 7150 3150 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7050 3350 50  0001 C CNN
+F 3 "" H 7050 3350 50  0001 C CNN
+	1    7050 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7402D-f4mpac-eagle-import IC7
+U 2 1 CEECACEF
+P 5050 3800
+F 0 "IC7" H 5025 3775 59  0000 L BNN
+F 1 "74LS02D" H 5150 3600 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5050 3800 50  0001 C CNN
+F 3 "" H 5050 3800 50  0001 C CNN
+	2    5050 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7402D-f4mpac-eagle-import IC7
+U 3 1 CEECACEB
+P 5050 4500
+F 0 "IC7" H 5025 4475 59  0000 L BNN
+F 1 "74LS02D" H 5150 4300 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5050 4500 50  0001 C CNN
+F 3 "" H 5050 4500 50  0001 C CNN
+	3    5050 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7402D-f4mpac-eagle-import IC7
+U 4 1 CEECACF7
+P 7050 4350
+F 0 "IC7" H 7025 4325 59  0000 L BNN
+F 1 "74LS02D" H 7150 4150 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7050 4350 50  0001 C CNN
+F 3 "" H 7050 4350 50  0001 C CNN
+	4    7050 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:GND-f4mpac-eagle-import #GND05
+U 1 1 EF27308A
+P 9750 4150
+F 0 "#GND05" H 9750 4150 50  0001 C CNN
+F 1 "GND" H 9650 4050 59  0000 L BNN
+F 2 "" H 9750 4150 50  0001 C CNN
+F 3 "" H 9750 4150 50  0001 C CNN
+	1    9750 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:GND-f4mpac-eagle-import #GND06
+U 1 1 A07C0193
+P 9750 1850
+F 0 "#GND06" H 9750 1850 50  0001 C CNN
+F 1 "GND" H 9650 1750 59  0000 L BNN
+F 2 "" H 9750 1850 50  0001 C CNN
+F 3 "" H 9750 1850 50  0001 C CNN
+	1    9750 1850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:GND-f4mpac-eagle-import #GND07
+U 1 1 9CDE76EF
+P 7450 1850
+F 0 "#GND07" H 7450 1850 50  0001 C CNN
+F 1 "GND" H 7350 1750 59  0000 L BNN
+F 2 "" H 7450 1850 50  0001 C CNN
+F 3 "" H 7450 1850 50  0001 C CNN
+	1    7450 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:R-EU_M0805-f4mpac-eagle-import R15
+U 1 1 E61ED98D
+P 8350 1850
+F 0 "R15" H 8200 1909 59  0000 L BNN
+F 1 "4.7k" H 8200 1720 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 8350 1850 50  0001 C CNN
+F 3 "" H 8350 1850 50  0001 C CNN
+	1    8350 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:CPOL-EUSMCB-f4mpac-eagle-import C9
+U 1 1 B891F08C
+P 9250 1850
+F 0 "C9" H 9295 1869 59  0000 L BNN
+F 1 "10uF 16V" H 9295 1669 59  0000 L BNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 9250 1850 50  0001 C CNN
+F 3 "" H 9250 1850 50  0001 C CNN
+	1    9250 1850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:C-EUC0805-f4mpac-eagle-import C11
+U 1 1 46744172
+P 7450 1450
+F 0 "C11" H 7510 1465 59  0000 L BNN
+F 1 "100nF" H 7510 1265 59  0000 L BNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 7450 1450 50  0001 C CNN
+F 3 "" H 7450 1450 50  0001 C CNN
+	1    7450 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:DIL40-f4mpac-eagle-import CN1
+U 1 1 82CFE41B
+P 2550 1650
+F 0 "CN1" H 2375 2625 59  0000 L BNN
+F 1 "DIP40 MB CONN" H 2375 500 59  0001 L BNN
+F 2 "Package_DIP:DIP-40_W15.24mm" H 2550 1650 50  0001 C CNN
+F 3 "" H 2550 1650 50  0001 C CNN
+	1    2550 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:GND-f4mpac-eagle-import #GND08
+U 1 1 DF24F9E8
+P 1550 4750
+F 0 "#GND08" H 1550 4750 50  0001 C CNN
+F 1 "GND" H 1450 4650 59  0000 L BNN
+F 2 "" H 1550 4750 50  0001 C CNN
+F 3 "" H 1550 4750 50  0001 C CNN
+	1    1550 4750
+	-1   0    0    1   
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7430D-f4mpac-eagle-import IC6
+U 2 1 CCA5B876
+P 12800 10000
+F 0 "IC6" H 12775 9975 59  0000 L BNN
+F 1 "74LS30D" H 13000 9700 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 12800 10000 50  0001 C CNN
+F 3 "" H 12800 10000 50  0001 C CNN
+	2    12800 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7402D-f4mpac-eagle-import IC7
+U 5 1 CEECACF3
+P 12400 10000
+F 0 "IC7" H 12375 9975 59  0000 L BNN
+F 1 "74LS02D" H 12500 9800 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 12400 10000 50  0001 C CNN
+F 3 "" H 12400 10000 50  0001 C CNN
+	5    12400 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:74125D-f4mpac-eagle-import IC9
+U 5 1 34A988C0
+P 11600 10000
+F 0 "IC9" H 11575 9975 59  0000 L BNN
+F 1 "74LS125D" H 11700 9800 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 11600 10000 50  0001 C CNN
+F 3 "" H 11600 10000 50  0001 C CNN
+	5    11600 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7474D-f4mpac-eagle-import IC8
+U 3 1 E0DF525A
+P 12000 10000
+F 0 "IC8" H 11975 9975 59  0000 L BNN
+F 1 "74LS74D" H 11700 9600 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 12000 10000 50  0001 C CNN
+F 3 "" H 12000 10000 50  0001 C CNN
+	3    12000 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7430D-f4mpac-eagle-import IC2
+U 2 1 F2F968D8
+P 11200 10000
+F 0 "IC2" H 11175 9975 59  0000 L BNN
+F 1 "74LS30D" H 11400 9700 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 11200 10000 50  0001 C CNN
+F 3 "" H 11200 10000 50  0001 C CNN
+	2    11200 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7404D-f4mpac-eagle-import IC3
+U 7 1 46AE477B
+P 10800 10000
+F 0 "IC3" H 10775 9975 59  0000 L BNN
+F 1 "74LS04D" H 10900 9800 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 10800 10000 50  0001 C CNN
+F 3 "" H 10800 10000 50  0001 C CNN
+	7    10800 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:+12V-f4mpac-eagle-import #P+03
+U 1 1 00F05DF6
+P 10450 6100
+F 0 "#P+03" H 10450 6100 50  0001 C CNN
+F 1 "+12V" V 10350 5900 59  0000 L BNN
+F 2 "" H 10450 6100 50  0001 C CNN
+F 3 "" H 10450 6100 50  0001 C CNN
+	1    10450 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:-12V-f4mpac-eagle-import #P-01
+U 1 1 4A0E12CB
+P 10450 7450
+F 0 "#P-01" H 10450 7450 50  0001 C CNN
+F 1 "-12V" V 10350 7350 59  0000 L BNN
+F 2 "" H 10450 7450 50  0001 C CNN
+F 3 "" H 10450 7450 50  0001 C CNN
+	1    10450 7450
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:CPOL-EUSMCB-f4mpac-eagle-import C12
+U 1 1 7F4BC8C1
+P 5850 6850
+F 0 "C12" H 5895 6869 59  0000 L BNN
+F 1 "1uF 25v" H 5895 6669 59  0000 L BNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 5850 6850 50  0001 C CNN
+F 3 "" H 5850 6850 50  0001 C CNN
+	1    5850 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:78L-f4mpac-eagle-import VREG1
+U 1 1 2D5EC03F
+P 6550 6350
+F 0 "VREG1" H 6250 6575 59  0000 L BNN
+F 1 "78L" H 6250 6475 59  0000 L BNN
+F 2 "Package_TO_SOT_THT:TO-92L_Wide" H 6550 6350 50  0001 C CNN
+F 3 "" H 6550 6350 50  0001 C CNN
+	1    6550 6350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:R-EU_R0805-f4mpac-eagle-import R12
+U 1 1 34D92192
+P 9750 6650
+F 0 "R12" H 9600 6709 59  0000 L BNN
+F 1 "100" H 9600 6520 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 9750 6650 50  0001 C CNN
+F 3 "" H 9750 6650 50  0001 C CNN
+	1    9750 6650
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:C-EUC0805-f4mpac-eagle-import C14
+U 1 1 848E18DE
+P 8450 7150
+F 0 "C14" H 8510 7165 59  0000 L BNN
+F 1 "1nF" H 8510 6965 59  0000 L BNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 8450 7150 50  0001 C CNN
+F 3 "" H 8450 7150 50  0001 C CNN
+	1    8450 7150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:C-EUC0805-f4mpac-eagle-import C8
+U 1 1 7D0E483A
+P 5350 8850
+F 0 "C8" H 5410 8865 59  0000 L BNN
+F 1 "100nF" H 5410 8665 59  0000 L BNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 5350 8850 50  0001 C CNN
+F 3 "" H 5350 8850 50  0001 C CNN
+	1    5350 8850
+	-1   0    0    1   
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:GND-f4mpac-eagle-import #GND014
+U 1 1 109F320A
+P 5350 9350
+F 0 "#GND014" H 5350 9350 50  0001 C CNN
+F 1 "GND" H 5250 9250 59  0000 L BNN
+F 2 "" H 5350 9350 50  0001 C CNN
+F 3 "" H 5350 9350 50  0001 C CNN
+	1    5350 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:C-EUC0805-f4mpac-eagle-import C16
+U 1 1 18A79713
+P 8150 9650
+F 0 "C16" H 8210 9665 59  0000 L BNN
+F 1 "1nF" H 8210 9465 59  0000 L BNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 8150 9650 50  0001 C CNN
+F 3 "" H 8150 9650 50  0001 C CNN
+	1    8150 9650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:+5V-f4mpac-eagle-import #SUPPLY01
+U 1 1 E46721A6
+P 12800 9400
+F 0 "#SUPPLY01" H 12800 9400 50  0001 C CNN
+F 1 "+5V" H 12725 9525 59  0000 L BNN
+F 2 "" H 12800 9400 50  0001 C CNN
+F 3 "" H 12800 9400 50  0001 C CNN
+	1    12800 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:GND-f4mpac-eagle-import #GND015
+U 1 1 257B06B4
+P 12800 10600
+F 0 "#GND015" H 12800 10600 50  0001 C CNN
+F 1 "GND" H 12700 10500 59  0000 L BNN
+F 2 "" H 12800 10600 50  0001 C CNN
+F 3 "" H 12800 10600 50  0001 C CNN
+	1    12800 10600
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:+5V-f4mpac-eagle-import #SUPPLY05
+U 1 1 FD320F9F
+P 7450 1050
+F 0 "#SUPPLY05" H 7450 1050 50  0001 C CNN
+F 1 "+5V" H 7375 1175 59  0000 L BNN
+F 2 "" H 7450 1050 50  0001 C CNN
+F 3 "" H 7450 1050 50  0001 C CNN
+	1    7450 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:+5V-f4mpac-eagle-import #SUPPLY07
+U 1 1 70B0FDB1
+P 1950 1750
+F 0 "#SUPPLY07" H 1950 1750 50  0001 C CNN
+F 1 "+5V" H 1875 1875 59  0000 L BNN
+F 2 "" H 1950 1750 50  0001 C CNN
+F 3 "" H 1950 1750 50  0001 C CNN
+	1    1950 1750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:GND-f4mpac-eagle-import #GND016
+U 1 1 99D4D269
+P 3250 1850
+F 0 "#GND016" H 3250 1850 50  0001 C CNN
+F 1 "GND" H 3150 1750 59  0000 L BNN
+F 2 "" H 3250 1850 50  0001 C CNN
+F 3 "" H 3250 1850 50  0001 C CNN
+	1    3250 1850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7404D-f4mpac-eagle-import IC3
+U 5 1 46AE4773
+P 10850 3550
+F 0 "IC3" H 10825 3525 59  0000 L BNN
+F 1 "74LS04D" H 10950 3350 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 10850 3550 50  0001 C CNN
+F 3 "" H 10850 3550 50  0001 C CNN
+	5    10850 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7404D-f4mpac-eagle-import IC3
+U 6 1 46AE477F
+P 10850 4150
+F 0 "IC3" H 10825 4125 59  0000 L BNN
+F 1 "74LS04D" H 10950 3950 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 10850 4150 50  0001 C CNN
+F 3 "" H 10850 4150 50  0001 C CNN
+	6    10850 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:GND-f4mpac-eagle-import #GND011
+U 1 1 19DA8D48
+P 10350 4450
+F 0 "#GND011" H 10350 4450 50  0001 C CNN
+F 1 "GND" H 10250 4350 59  0000 L BNN
+F 2 "" H 10350 4450 50  0001 C CNN
+F 3 "" H 10350 4450 50  0001 C CNN
+	1    10350 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:7404D-f4mpac-eagle-import IC3
+U 1 1 46AE4763
+P 10850 2950
+F 0 "IC3" H 10825 2925 59  0000 L BNN
+F 1 "74LS04D" H 10950 2750 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 10850 2950 50  0001 C CNN
+F 3 "" H 10850 2950 50  0001 C CNN
+	1    10850 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:74125D-f4mpac-eagle-import IC9
+U 3 1 34A988D8
+P 10850 2350
+F 0 "IC9" H 10825 2325 59  0000 L BNN
+F 1 "74LS125D" H 10950 2150 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 10850 2350 50  0001 C CNN
+F 3 "" H 10850 2350 50  0001 C CNN
+	3    10850 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:74125D-f4mpac-eagle-import IC9
+U 4 1 34A988C4
+P 10850 1650
+F 0 "IC9" H 10825 1625 59  0000 L BNN
+F 1 "74LS125D" H 10950 1450 59  0001 L BNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 10850 1650 50  0001 C CNN
+F 3 "" H 10850 1650 50  0001 C CNN
+	4    10850 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:C-EUC0805-f4mpac-eagle-import C10
+U 1 1 A08A9EE1
+P 10400 9900
+F 0 "C10" H 10460 9915 59  0000 L BNN
+F 1 "100nF" H 10460 9715 59  0000 L BNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 10400 9900 50  0001 C CNN
+F 3 "" H 10400 9900 50  0001 C CNN
+	1    10400 9900
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:C-EUC0805-f4mpac-eagle-import C13
+U 1 1 85E9F438
+P 10000 9900
+F 0 "C13" H 10060 9915 59  0000 L BNN
+F 1 "100nF" H 10060 9715 59  0000 L BNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 10000 9900 50  0001 C CNN
+F 3 "" H 10000 9900 50  0001 C CNN
+	1    10000 9900
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:SJ-f4mpac-eagle-import SJ3
+U 1 1 EA45FD97
+P 6250 9550
+F 0 "SJ3" H 6150 9650 59  0000 L BNN
+F 1 "SJ" H 6150 9400 59  0000 L BNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 6250 9550 50  0001 C CNN
+F 3 "" H 6250 9550 50  0001 C CNN
+	1    6250 9550
+	-1   0    0    1   
+$EndComp
+Text Notes 5550 2250 0    85   ~ 0
+F4 Port Register
+Text Notes 2450 3750 0    85   ~ 0
+Z80 CPU
+Text Notes 1750 2950 0    85   ~ 0
+Motherboard Z80 Socket
+Text Notes 6950 5350 0    85   ~ 0
+F4 schematic by Kamil Karimov (2011)
+Text Notes 6950 5550 0    85   ~ 0
+FMPAC Light schematic by Jipe (2010)
+Text Notes 6950 5150 0    170  ~ 34
+F4 Port + FMPAC Light (Mono)
+Text Notes 6950 5750 0    85   ~ 0
+Board and optimizations by RBSC (2016-2018)
+Text Notes 5750 9950 0    59   ~ 0
+Digital and analogue\nGND separation
+$Comp
+L power:GND1 #PWR03
+U 1 1 600896A5
+P 10150 6950
+F 0 "#PWR03" H 10150 6700 50  0001 C CNN
+F 1 "GND1" H 10155 6777 50  0000 C CNN
+F 2 "" H 10150 6950 50  0001 C CNN
+F 3 "" H 10150 6950 50  0001 C CNN
+	1    10150 6950
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND1 #PWR02
+U 1 1 6008EEC4
+P 9150 7450
+F 0 "#PWR02" H 9150 7200 50  0001 C CNN
+F 1 "GND1" V 9155 7322 50  0000 R CNN
+F 2 "" H 9150 7450 50  0001 C CNN
+F 3 "" H 9150 7450 50  0001 C CNN
+	1    9150 7450
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND1 #PWR04
+U 1 1 60090FD5
+P 11050 8950
+F 0 "#PWR04" H 11050 8700 50  0001 C CNN
+F 1 "GND1" H 11055 8777 50  0000 C CNN
+F 2 "" H 11050 8950 50  0001 C CNN
+F 3 "" H 11050 8950 50  0001 C CNN
+	1    11050 8950
+	1    0    0    -1  
+$EndComp
+Connection ~ 2650 6850
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:R-EU_R0805-f4mpac-eagle-import R16
+U 1 1 6023EA92
+P 13050 9600
+F 0 "R16" H 12900 9659 59  0000 L BNN
+F 1 "470" H 12900 9470 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 13050 9600 50  0001 C CNN
+F 3 "" H 13050 9600 50  0001 C CNN
+	1    13050 9600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED LED1
+U 1 1 6026A7EA
+P 13300 10050
+F 0 "LED1" V 13339 9932 50  0000 R CNN
+F 1 "LED 3mm" V 13248 9932 50  0000 R CNN
+F 2 "LED_THT:LED_D3.0mm" H 13300 10050 50  0001 C CNN
+F 3 "~" H 13300 10050 50  0001 C CNN
+	1    13300 10050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	12800 9600 12850 9600
+Wire Wire Line
+	13250 9600 13300 9600
+Wire Wire Line
+	13300 9600 13300 9900
+Wire Wire Line
+	13300 10200 13300 10400
+Wire Wire Line
+	13300 10400 12800 10400
+$Comp
+L power:GND1 #PWR01
+U 1 1 603148FE
+P 7250 9250
+F 0 "#PWR01" H 7250 9000 50  0001 C CNN
+F 1 "GND1" H 7255 9077 50  0000 C CNN
+F 2 "" H 7250 9250 50  0001 C CNN
+F 3 "" H 7250 9250 50  0001 C CNN
+	1    7250 9250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Amplifier_Operational:MCP601-xP U48
+U 1 1 6038F454
+P 11150 8500
+F 0 "U48" H 11250 8350 50  0000 L CNN
+F 1 "MCP6182" H 11150 8250 50  0000 L CNN
+F 2 "Package_DIP:DIP-8_W7.62mm" H 11050 8300 50  0001 L CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf" H 11300 8650 50  0001 C CNN
+	1    11150 8500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10450 6650 10450 6850
+$Comp
+L Amplifier_Operational:MCP601-xP U2
+U 1 1 60549906
+P 11700 8050
+F 0 "U2" H 11850 7900 50  0000 L CNN
+F 1 "SOCKET DIP" H 11700 7800 50  0000 L CNN
+F 2 "Package_DIP:DIP-8_W7.62mm" H 11600 7850 50  0001 L CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf" H 11850 8200 50  0001 C CNN
+	1    11700 8050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11050 8200 11050 7600
+Wire Wire Line
+	11050 7600 11600 7600
+Wire Wire Line
+	11600 7600 11600 7750
+Wire Wire Line
+	10850 8400 10850 7950
+Wire Wire Line
+	10850 7950 11400 7950
+Wire Wire Line
+	10850 8600 10750 8600
+Wire Wire Line
+	10750 8600 10750 8150
+Wire Wire Line
+	10750 8150 11400 8150
+Wire Wire Line
+	11450 8500 12150 8500
+Wire Wire Line
+	12150 8500 12150 8050
+Wire Wire Line
+	12150 8050 12000 8050
+Wire Wire Line
+	11050 8800 11050 8850
+Wire Wire Line
+	11050 8850 11600 8850
+Wire Wire Line
+	11600 8850 11600 8350
+Connection ~ 11050 8850
+Wire Wire Line
+	9850 9150 10200 9150
+Wire Wire Line
+	11050 8850 11050 8950
+Wire Wire Line
+	10750 8600 10200 8600
+Connection ~ 10750 8600
+Wire Wire Line
+	10200 8600 10200 9150
+Wire Wire Line
+	10200 8050 10200 7050
+Wire Wire Line
+	10200 7050 10450 7050
+Wire Wire Line
+	10150 6950 10750 6950
+Wire Wire Line
+	10450 6850 10950 6850
+Wire Wire Line
+	10450 7050 10450 7350
+Connection ~ 10450 7050
+Wire Wire Line
+	10450 7050 10950 7050
+Wire Wire Line
+	9450 1850 9650 1850
+$Comp
+L Connector_Generic:Conn_01x05 JP1
+U 1 1 611A29C9
+P 11150 6850
+F 0 "JP1" H 11230 6892 50  0000 L CNN
+F 1 "Conn_01x05" H 11230 6801 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 11150 6850 50  0001 C CNN
+F 3 "~" H 11150 6850 50  0001 C CNN
+	1    11150 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:+5V-f4mpac-eagle-import #SUPPLY08
+U 1 1 CC52D7E0
+P 1350 4650
+F 0 "#SUPPLY08" H 1350 4650 50  0001 C CNN
+F 1 "+5V" H 1275 4775 59  0000 L BNN
+F 2 "" H 1350 4650 50  0001 C CNN
+F 3 "" H 1350 4650 50  0001 C CNN
+	1    1350 4650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10750 6450 10750 6650
+$Comp
+L PCB_F4-FMPAC_DIP_IMPRIMIR-DEFINITIU-copy_2021-07-27-rescue:+5V-f4mpac-eagle-import #SUPPLY02
+U 1 1 611ACC97
+P 10750 6350
+F 0 "#SUPPLY02" H 10750 6350 50  0001 C CNN
+F 1 "+5V" H 10675 6475 59  0000 L BNN
+F 2 "" H 10750 6350 50  0001 C CNN
+F 3 "" H 10750 6350 50  0001 C CNN
+	1    10750 6350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10950 6750 10750 6750
+Wire Wire Line
+	10750 6750 10750 6950
+Connection ~ 10750 6950
+Wire Wire Line
+	10750 6950 10950 6950
+Wire Wire Line
+	10750 6650 10950 6650
+Wire Wire Line
+	5550 3300 5750 3300
+Text Label 4250 4350 2    70   ~ 0
+IORQ
+Entry Wire Line
+	4250 2550 4350 2650
+Wire Wire Line
+	5350 3800 5550 3800
+Wire Wire Line
+	5550 3800 5550 3300
+Entry Wire Line
+	2550 6850 2650 6750
+$Comp
+L Diode:1N4148 D2
+U 1 1 614F6F8E
+P 8300 1550
+F 0 "D2" H 8300 1767 50  0000 C CNN
+F 1 "1N4148" H 8300 1676 50  0000 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8300 1375 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8300 1550 50  0001 C CNN
+	1    8300 1550
+	1    0    0    -1  
+$EndComp
+Wire Bus Line
+	2650 6850 4350 6850
+Wire Bus Line
+	750  6850 2650 6850
+Wire Bus Line
+	2650 6850 2650 11450
+Wire Bus Line
+	750  650  750  6850
+Wire Bus Line
+	4350 750  4350 6850
+$EndSCHEMATC
