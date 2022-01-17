@@ -8,5 +8,5 @@ La alimentación puede ser suministrada mediante un módulo eletechsup DD1718PA 
 También requiere la reprogramación de la ROM del sistema para incorporar una extensión del BIOS que dé soporte a este circuito, de lo contrario los programas que soportan la extensión seguirán omitiendo el módulo y utilizando el sistema FM principal.
 A diferencia de la versión anterior este PCB no incorpora zócalo para memoria ROM ni señales a tomar de un slot de cartucho.
 Como instrucciones de montaje se pueden seguir las publicadas para la versión anterior en:
-msxmakers.design.blog/proyectos/f4-fmpac/
+https://msxmakers.design.blog/proyectos/f4-fmpac/
 
