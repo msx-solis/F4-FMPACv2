@@ -7,3 +7,5 @@ Con este sistema, conectando un interruptor a JP1 de la placa base se puede conm
 regional es inmediata, el soporte de FMPAC requiere reiniciar.
 
 Se incluye el script de creación y los ficheros necesarios para modificarlo al gusto.
+
+Nota: Pendiente de revisar si los ficheros que subí están mal, añado un script y ROM probados por MerlinKV.
